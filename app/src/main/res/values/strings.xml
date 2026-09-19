@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+
+    <string name="title_1">Bahía de Sídney</string>
+    <string name="artist_1">Alec Doualetas</string>
+    <string name="year_1">2024</string>
+
+    <string name="title_2">Golden Gate entre nubes</string>
+    <string name="artist_2">David McElwee</string>
+    <string name="year_2">2024</string>
+
+    <string name="title_3">Luna creciente al atardecer</string>
+    <string name="artist_3">Nikola Vu</string>
+    <string name="year_3">2024</string>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
